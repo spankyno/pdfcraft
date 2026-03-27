@@ -41,11 +41,12 @@ export default function FAQPageClient({ locale }: FAQPageClientProps) {
 
     const keys = categoryMapping[categoryKey] || [];
 
+    const brand = tCommon('brand');
     return keys.map(key => ({
       category: categoryKey,
       categoryLabel: categoryLabel,
-      question: t(`sections.${categoryKey}.${key}.question`),
-      answer: t(`sections.${categoryKey}.${key}.answer`)
+      question: t(`sections.${categoryKey}.${key}.question`, { brand }),
+      answer: t(`sections.${categoryKey}.${key}.answer`, { brand })
     }));
   };
 
