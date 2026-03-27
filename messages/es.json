@@ -164,154 +164,154 @@
     }
   },
   "faqPage": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Find answers to common questions about {brand}",
-    "searchPlaceholder": "Search FAQs...",
-    "noResults": "No FAQs found matching your search.",
-    "expandAll": "Expand All",
-    "collapseAll": "Collapse All",
+    "title": "Preguntas frecuentes",
+    "subtitle": "Encuentra respuestas a las preguntas más comunes sobre {brand}",
+    "searchPlaceholder": "Buscar en las FAQ...",
+    "noResults": "No se encontraron resultados para tu búsqueda.",
+    "expandAll": "Expandir todo",
+    "collapseAll": "Contraer todo",
     "categories": {
-      "all": "All",
+      "all": "Todas",
       "general": "General",
-      "privacy": "Privacy & Security",
-      "features": "Features",
-      "technical": "Technical",
-      "languages": "Languages"
+      "privacy": "Privacidad y seguridad",
+      "features": "Funcionalidades",
+      "technical": "Técnico",
+      "languages": "Idiomas"
     },
     "sections": {
       "general": {
         "whatIs": {
-          "question": "What is PDFCraft EditAitor?",
-          "answer": "PDFCraft EditAitor is a free, privacy-focused PDF toolkit that runs entirely in your browser. It offers 67+ professional tools for editing, converting, merging, splitting, and securing PDF files without uploading them to any server."
+          "question": "¿Qué es {brand}?",
+          "answer": "{brand} es un conjunto de herramientas PDF gratuito y centrado en la privacidad que funciona íntegramente en tu navegador. Ofrece más de 67 herramientas profesionales para editar, convertir, combinar, dividir y proteger archivos PDF sin necesidad de subirlos a ningún servidor."
         },
         "isFree": {
-          "question": "Is PDFCraft EditAitor really free?",
-          "answer": "Yes, PDFCraft EditAitor is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
+          "question": "¿Es {brand} realmente gratuito?",
+          "answer": "Sí, {brand} es completamente gratuito. No hay costes ocultos, no existen niveles de pago y no se requiere registro. Todas las funciones están disponibles para todo el mundo."
         },
         "account": {
-          "question": "Do I need to create an account?",
-          "answer": "No, you don't need to create an account or register to use PDFCraft EditAitor. Simply visit the website and start using any tool immediately."
+          "question": "¿Necesito crear una cuenta?",
+          "answer": "No, no necesitas crear ninguna cuenta ni registrarte para usar {brand}. Simplemente visita el sitio web y empieza a usar cualquier herramienta de inmediato."
         }
       },
       "privacy": {
         "uploaded": {
-          "question": "Are my files uploaded to a server?",
-          "answer": "No, your files are never uploaded to any server. All PDF processing happens locally in your browser using JavaScript and WebAssembly. Your files never leave your device."
+          "question": "¿Se suben mis archivos a algún servidor?",
+          "answer": "No, tus archivos nunca se suben a ningún servidor. Todo el procesamiento de PDF ocurre localmente en tu navegador usando JavaScript y WebAssembly. Tus archivos nunca abandonan tu dispositivo."
         },
         "safe": {
-          "question": "Is it safe to use PDFCraft EditAitor with sensitive documents?",
-          "answer": "Yes, PDFCraft EditAitor is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
+          "question": "¿Es seguro usar {brand} con documentos confidenciales?",
+          "answer": "Sí, {brand} está diseñado con la privacidad como prioridad. Dado que todo el procesamiento ocurre localmente en tu navegador, tus documentos confidenciales permanecen en tu dispositivo y nunca se transmiten por internet."
         },
         "storage": {
-          "question": "What happens to my files after processing?",
-          "answer": "Your files are stored temporarily in your browser's memory during processing. Once you close the browser tab or navigate away, all file data is automatically cleared. We don't store any of your files."
+          "question": "¿Qué ocurre con mis archivos después del procesamiento?",
+          "answer": "Tus archivos se almacenan temporalmente en la memoria del navegador durante el procesamiento. Una vez que cierras la pestaña o navegas a otra página, todos los datos de los archivos se borran automáticamente. No almacenamos ninguno de tus archivos."
         }
       },
       "features": {
         "operations": {
-          "question": "What PDF operations can I perform?",
-          "answer": "PDFCraft EditAitor offers 67+ tools including: merge, split, compress, convert (to/from images, text, JSON), edit, annotate, sign, add watermarks, encrypt/decrypt, OCR, and many more."
+          "question": "¿Qué operaciones puedo realizar con PDFs?",
+          "answer": "{brand} ofrece más de 67 herramientas: combinar, dividir, comprimir, convertir (a/desde imágenes, texto, JSON), editar, anotar, firmar, añadir marcas de agua, cifrar/descifrar, OCR y muchas más."
         },
         "merge": {
-          "question": "Can I merge multiple PDF files?",
-          "answer": "Yes, you can merge multiple PDF files into one. Simply use the Merge PDF tool, upload your files, arrange them in the desired order, and click merge."
+          "question": "¿Puedo combinar varios archivos PDF?",
+          "answer": "Sí, puedes combinar varios archivos PDF en uno solo. Usa la herramienta Combinar PDF, sube tus archivos, ordénalos como desees y haz clic en combinar."
         },
         "images": {
-          "question": "Can I convert images to PDF?",
-          "answer": "Yes, PDFCraft EditAitor supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
+          "question": "¿Puedo convertir imágenes a PDF?",
+          "answer": "Sí, {brand} permite convertir varios formatos de imagen (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) a PDF. Puedes convertir una sola imagen o varias a la vez."
         },
         "edit": {
-          "question": "Can I edit text in a PDF?",
-          "answer": "PDFCraft EditAitor provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
+          "question": "¿Puedo editar texto en un PDF?",
+          "answer": "{brand} ofrece herramientas de anotación y edición: resaltado, añadir texto, formas, imágenes y firmas. Para edición completa, la herramienta Editor PDF ofrece capacidades de anotación exhaustivas."
         }
       },
       "technical": {
         "browsers": {
-          "question": "What browsers are supported?",
-          "answer": "PDFCraft EditAitor works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
+          "question": "¿Qué navegadores son compatibles?",
+          "answer": "{brand} funciona en todos los navegadores modernos: Chrome, Firefox, Safari y Edge. Recomendamos usar la versión más reciente de tu navegador para una mejor experiencia."
         },
         "sizeLimit": {
-          "question": "Is there a file size limit?",
-          "answer": "Most tools support files up to 100MB, with some tools like merge and compress supporting up to 500MB. These limits are in place to ensure smooth performance in your browser."
+          "question": "¿Hay un límite de tamaño de archivo?",
+          "answer": "La mayoría de herramientas admiten archivos de hasta 100 MB, y algunas como combinar y comprimir admiten hasta 500 MB. Estos límites están establecidos para garantizar un rendimiento fluido en tu navegador."
         },
         "slow": {
-          "question": "Why is processing slow for large files?",
-          "answer": "Since all processing happens in your browser, performance depends on your device's capabilities. Large files require more memory and processing power. For best results, close other browser tabs and applications."
+          "question": "¿Por qué el procesamiento es lento con archivos grandes?",
+          "answer": "Dado que todo el procesamiento ocurre en tu navegador, el rendimiento depende de las capacidades de tu dispositivo. Los archivos grandes requieren más memoria y potencia de procesamiento. Para mejores resultados, cierra otras pestañas y aplicaciones."
         },
         "offline": {
-          "question": "Does PDFCraft EditAitor work offline?",
-          "answer": "Currently, PDFCraft EditAitor requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
+          "question": "¿Funciona {brand} sin conexión?",
+          "answer": "Actualmente, {brand} requiere conexión a internet para cargar la aplicación. Sin embargo, una vez cargada, el procesamiento de PDF ocurre localmente y no necesita conexión."
         }
       },
       "languages": {
         "supported": {
-          "question": "What languages are supported?",
-          "answer": "PDFCraft EditAitor is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
+          "question": "¿Qué idiomas están disponibles?",
+          "answer": "{brand} está disponible en 9 idiomas: inglés, japonés, coreano, español, francés, alemán, chino, portugués y árabe (con soporte RTL)."
         },
         "change": {
-          "question": "How do I change the language?",
-          "answer": "You can change the language using the language selector in the header. Your preference will be saved for future visits."
+          "question": "¿Cómo cambio el idioma?",
+          "answer": "Puedes cambiar el idioma usando el selector de idioma en la cabecera. Tu preferencia se guardará para futuras visitas."
         }
       }
     },
     "cta": {
-      "title": "Still have questions?",
-      "description": "Can't find the answer you're looking for? Feel free to reach out to us.",
-      "button": "Contact Us"
+      "title": "¿Tienes más preguntas?",
+      "description": "¿No encuentras lo que buscas? No dudes en ponerte en contacto con nosotros.",
+      "button": "Contactar"
     }
   },
   "aboutPage": {
-    "title": "About {brand}",
-    "description": "{brand} is a free, privacy-focused PDF toolkit that runs entirely in your browser. With {count}+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading them to a server.",
+    "title": "Acerca de {brand}",
+    "description": "{brand} es un conjunto de herramientas PDF gratuito y centrado en la privacidad que funciona íntegramente en tu navegador. Con más de {count}+ herramientas profesionales, puedes editar, convertir, combinar, dividir y proteger tus archivos PDF sin necesidad de subirlos a ningún servidor.",
     "mission": {
-      "title": "Our Mission",
-      "p1": "We believe that everyone should have access to powerful PDF tools without compromising their privacy or paying expensive subscription fees. That's why we created {brand} – a comprehensive PDF toolkit that puts your privacy first.",
-      "p2": "Unlike traditional PDF services that require you to upload your files to remote servers, {brand} processes everything locally in your browser. Your sensitive documents never leave your device, giving you complete control over your data.",
-      "p3": "Whether you're a student, professional, or casual user, {brand} provides all the tools you need to work with PDFs efficiently and securely."
+      "title": "Nuestra misión",
+      "p1": "Creemos que todo el mundo debería tener acceso a herramientas PDF potentes sin comprometer su privacidad ni pagar costosas suscripciones. Por eso creamos {brand}: un completo conjunto de herramientas PDF que pone tu privacidad en primer lugar.",
+      "p2": "A diferencia de los servicios PDF tradicionales que requieren subir tus archivos a servidores remotos, {brand} procesa todo localmente en tu navegador. Tus documentos confidenciales nunca abandonan tu dispositivo, dándote un control total sobre tus datos.",
+      "p3": "Tanto si eres estudiante, profesional o usuario ocasional, {brand} te proporciona todas las herramientas que necesitas para trabajar con PDFs de forma eficiente y segura."
     },
     "values": {
-      "title": "Our Values",
+      "title": "Nuestros valores",
       "privacy": {
-        "title": "Privacy First",
-        "description": "Your files never leave your device. All processing happens locally in your browser, ensuring complete privacy and security."
+        "title": "Privacidad ante todo",
+        "description": "Tus archivos nunca abandonan tu dispositivo. Todo el procesamiento ocurre localmente en tu navegador, garantizando una privacidad y seguridad totales."
       },
       "fast": {
-        "title": "Fast & Efficient",
-        "description": "Powered by modern web technologies, PDFCraft EditAitor delivers lightning-fast PDF processing without the need for uploads or downloads."
+        "title": "Rápido y eficiente",
+        "description": "Impulsado por tecnologías web modernas, {brand} ofrece un procesamiento de PDF ultrarrápido sin necesidad de subidas ni descargas."
       },
       "accessible": {
-        "title": "Accessible Everywhere",
-        "description": "Available in 9 languages and works on any device with a modern browser. No installation required."
+        "title": "Accesible en cualquier lugar",
+        "description": "Disponible en 9 idiomas y funciona en cualquier dispositivo con un navegador moderno. Sin instalación requerida."
       },
       "free": {
-        "title": "Free Forever",
-        "description": "PDFCraft EditAitor is completely free to use with no hidden costs, no registration required, and no limits on usage."
+        "title": "Gratis para siempre",
+        "description": "{brand} es completamente gratuito, sin costes ocultos, sin registro requerido y sin límites de uso."
       },
       "openSource": {
-        "title": "Open Source",
-        "description": "Built with transparency in mind. Our code is open source, allowing anyone to verify our privacy claims."
+        "title": "Código abierto",
+        "description": "Construido con transparencia. Nuestro código es abierto, permitiendo a cualquiera verificar nuestras afirmaciones sobre privacidad."
       },
       "community": {
-        "title": "Community Driven",
-        "description": "Developed with feedback from users around the world. We continuously improve based on your needs."
+        "title": "Impulsado por la comunidad",
+        "description": "Desarrollado con la retroalimentación de usuarios de todo el mundo. Mejoramos continuamente en función de tus necesidades."
       }
     },
     "technology": {
-      "title": "Built with Modern Technology",
-      "description": "{brand} is built using cutting-edge web technologies to ensure the best possible experience:",
+      "title": "Construido con tecnología moderna",
+      "description": "{brand} está construido con tecnologías web de vanguardia para garantizar la mejor experiencia posible:",
       "list": {
-        "nextjs": "<strong1>Next.js</strong1> - For fast, SEO-friendly page rendering",
-        "wasm": "<strong1>WebAssembly</strong1> - For near-native PDF processing performance",
-        "workers": "<strong1>Web Workers</strong1> - For non-blocking background processing",
-        "pdflib": "<strong1>pdf-lib & PDF.js</strong1> - Industry-standard PDF manipulation libraries",
-        "indexeddb": "<strong1>IndexedDB</strong1> - For secure local storage of your work"
+        "nextjs": "<strong1>Next.js</strong1> - Para una renderización de páginas rápida y optimizada para SEO",
+        "wasm": "<strong1>WebAssembly</strong1> - Para un rendimiento de procesamiento PDF casi nativo",
+        "workers": "<strong1>Web Workers</strong1> - Para un procesamiento en segundo plano sin bloqueos",
+        "pdflib": "<strong1>pdf-lib & PDF.js</strong1> - Bibliotecas de manipulación de PDF estándar del sector",
+        "indexeddb": "<strong1>IndexedDB</strong1> - Para el almacenamiento local seguro de tu trabajo"
       },
-      "summary": "This combination of technologies allows us to provide professional-grade PDF tools that run entirely in your browser, without any server-side processing."
+      "summary": "Esta combinación de tecnologías nos permite ofrecer herramientas PDF de calidad profesional que funcionan íntegramente en tu navegador, sin ningún procesamiento en el servidor."
     },
     "cta": {
-      "title": "Ready to Get Started?",
-      "description": "Explore our {count}+ PDF tools and see what {brand} can do for you.",
-      "button": "Browse All Tools"
+      "title": "¿Listo para empezar?",
+      "description": "Explora nuestras {count}+ herramientas PDF y descubre todo lo que {brand} puede hacer por ti.",
+      "button": "Ver todas las herramientas"
     }
   },
   "contactPage": {
