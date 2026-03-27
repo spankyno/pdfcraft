@@ -2,7 +2,7 @@
  * Site configuration
  */
 export const siteConfig = {
-  name: 'PDFCraft',
+  name: 'PDFCraft EditAitor',
   description: 'Professional PDF Tools - Free, Private & Browser-Based. Merge, split, compress, convert, and edit PDF files online without uploading to servers.',
   url: 'https://pdfcraft.devtoolcafe.com',
   ogImage: '/images/og-image.png',
@@ -11,7 +11,7 @@ export const siteConfig = {
     twitter: 'https://x.com/Kalbo___',
     email: 'blog.cottage627@passinbox.com',
   },
-  creator: 'PDFCraft Team',
+  creator: 'Aitor Sánchez Gutiérrez',
   keywords: [
     'PDF tools',
     'PDF editor',
@@ -26,8 +26,8 @@ export const siteConfig = {
   ],
   // SEO-related settings
   seo: {
-    titleTemplate: '%s | PDFCraft',
-    defaultTitle: 'PDFCraft - Professional PDF Tools',
+    titleTemplate: '%s | PDFCraft EditAitor',
+    defaultTitle: 'PDFCraft EditAitor - Professional PDF Tools',
     twitterHandle: '@Kalbo___',
     locale: 'en_US',
   },
